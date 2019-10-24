@@ -11,4 +11,3 @@ A=3.14*r*r;
 printf("%f",A);
 getch();
 }
-
