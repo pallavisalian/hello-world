@@ -12,7 +12,7 @@ if(r>0) //condition for positve radius//
 printf("%f",A);
 else
 {
-printf("enter +ve radius:");
+printf("enter positive radius:");
 scanf("%d",&r);
 print("%f",A);
 }
